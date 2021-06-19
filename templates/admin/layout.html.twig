@@ -9,7 +9,7 @@
 
 {% block stylesheets %}
     {{ parent() }}
-    {{ encore_entry_link_tags('admin') }}
+    {{ link_tags('admin') }}
 {% endblock %}
 
 {% block header_navigation_links %}
@@ -27,5 +27,5 @@
 
 {% block javascripts %}
     {{ parent() }}
-    {{ encore_entry_script_tags('admin') }}
+    {{ script_tags('admin') }}
 {% endblock %}

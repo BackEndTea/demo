@@ -1,6 +1,6 @@
 webpack_encore:
     # The path where Encore is building the assets - i.e. Encore.setOutputPath()
-    output_path: '%kernel.project_dir%/public/build'
+    output_path: false
     # If multiple builds are defined (as shown below), you can disable the default build:
     # output_path: false
 
@@ -19,11 +19,9 @@ webpack_encore:
     # strict_mode: false
 
     # If you have multiple builds:
-    # builds:
-        # pass "frontend" as the 3rg arg to the Twig functions
-        # {{ encore_entry_script_tags('entry1', null, 'frontend') }}
-
-        # frontend: '%kernel.project_dir%/public/frontend/build'
+    builds:
+        legacy: '%kernel.project_dir%/public/legacy-build'
+        modern: '%kernel.project_dir%/public/modern-build'
 
     # Cache the entrypoints.json (rebuild Symfony's cache when entrypoints.json changes)
     # Put in config/packages/prod/webpack_encore.yaml
