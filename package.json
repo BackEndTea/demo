@@ -23,9 +23,9 @@
     "license": "MIT",
     "private": true,
     "scripts": {
-        "dev-server": "encore dev-server",
-        "dev": "encore dev",
-        "watch": "encore dev --watch",
-        "build": "encore production --progress"
+        "dev-server": "encore dev-server -c webpack.modern.config.js  & encore dev-server -c webpack.legacy.config.js",
+        "dev": "encore dev -c webpack.modern.config.js & encore dev -c webpack.legacy.config.js & wait",
+        "watch": "encore dev --watch -c webpack.modern.config.js  & encore dev --watch -c webpack.legacy.config.js",
+        "build": "encore production --progress -c webpack.modern.config.js & encore production --progress -c webpack.legacy.config.js & wait"
     }
 }

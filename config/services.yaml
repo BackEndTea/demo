@@ -34,6 +34,10 @@ services:
     App\EventSubscriber\CommentNotificationSubscriber:
         $sender: '%app.notifications.email_sender%'
 
+    # 'webpack_encore.tag_renderer'
+    App\Twig\EncoreExtension:
+        arguments: ['@webpack_encore.tag_renderer']
+
 when@test:
     services:
         test.user_password_hasher:

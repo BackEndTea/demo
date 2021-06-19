@@ -1,0 +1,57 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/modern-build/runtime.96aa4ea2.js",
+        "/modern-build/755.f5cf308f.js",
+        "/modern-build/306.6ede3a3a.js",
+        "/modern-build/390.6d403f3f.js",
+        "/modern-build/app.467bf1d6.js"
+      ],
+      "css": [
+        "/modern-build/390.368ade42.css",
+        "/modern-build/app.bf86dc4e.css"
+      ]
+    },
+    "login": {
+      "js": [
+        "/modern-build/runtime.96aa4ea2.js",
+        "/modern-build/755.f5cf308f.js",
+        "/modern-build/login.395771d5.js"
+      ]
+    },
+    "admin": {
+      "js": [
+        "/modern-build/runtime.96aa4ea2.js",
+        "/modern-build/755.f5cf308f.js",
+        "/modern-build/827.64279744.js",
+        "/modern-build/admin.7518bb7d.js"
+      ],
+      "css": [
+        "/modern-build/admin.36009b35.css"
+      ]
+    },
+    "search": {
+      "js": [
+        "/modern-build/runtime.96aa4ea2.js",
+        "/modern-build/755.f5cf308f.js",
+        "/modern-build/306.6ede3a3a.js",
+        "/modern-build/search.83a032b6.js"
+      ]
+    }
+  },
+  "integrity": {
+    "/modern-build/runtime.96aa4ea2.js": "sha384-nMYLpi/v3txwhZt8UOBsMOTbgVmUPlpD8cPmrU3yblZ7Yg8l799XS9NC1BZ9P9Xs",
+    "/modern-build/755.f5cf308f.js": "sha384-SAv+SyvZr31CmFrJFfKEYK0fDrMVx8vh19SI4QznAB/ar+Z1k6IT9Mg2SDZtLwD2",
+    "/modern-build/306.6ede3a3a.js": "sha384-JL+riKJhDb5DVMa4A/tt0HiMnZhRWrlZVueG774IraOPEYLZNxU3NAcQNI8FrCUy",
+    "/modern-build/390.6d403f3f.js": "sha384-733aSCETZL+p2EA4GISxmg6BLas0BvtaEGxPUGigBzxpsMZrcgjH/1tfAjXCqI8p",
+    "/modern-build/app.467bf1d6.js": "sha384-+Xtpn89udCFQnYZ4wqFeJRKWoWOrUSIBXWGyG8Nfsn2HAmuhtocXt6mRI3gHN7K/",
+    "/modern-build/390.368ade42.css": "sha384-PYppZPKBlgY3sgcV63/bXHalO0cn2+G/k54TPIHI1AdNCCNP/4Xxo4HKCYMCgmuY",
+    "/modern-build/app.bf86dc4e.css": "sha384-uPVWEDWPUC/FzlWs5VKIalzW9y+epRTBHs8GwRsRYPFd9zguOJCA/fPT7qsbgjcB",
+    "/modern-build/login.395771d5.js": "sha384-bKBy5bAsLAFHFo/zxqJkheRiwvRSVHXwogJPw7DWc6qfnP03VaNFMyEc/0cRBf0k",
+    "/modern-build/827.64279744.js": "sha384-UKfDTw6pg5EC6K1ljC2lxJh4IQw138ETAGUdZ3dYyRuY0jyXSDHg6nmY+AkjR22c",
+    "/modern-build/admin.7518bb7d.js": "sha384-ah/WD5DSyyDS5IbfYQHEx7Iqf7f7Mi7SJ7O9ClHO3jJvcuYDmC+R2hRO3XpYVb1G",
+    "/modern-build/admin.36009b35.css": "sha384-qRUrZ7IoAXBgFsssTKI/u0lhL2vMGMW/tGx+bFLR2glCwtZDaPbIhh+g16+mI6Ke",
+    "/modern-build/search.83a032b6.js": "sha384-RXmjDozLs9FjOUQepKFxzkhoE6lkjZUX2kHYkeGSulCDhEHQLjptbW3xEeS2/GYg"
+  }
+}

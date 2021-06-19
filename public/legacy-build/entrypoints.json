@@ -1,0 +1,60 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/legacy-build/runtime.44d6b0ce.js",
+        "/legacy-build/755.f5cf308f.js",
+        "/legacy-build/498.795a5052.js",
+        "/legacy-build/169.7260fb26.js",
+        "/legacy-build/app.9cc866b9.js"
+      ],
+      "css": [
+        "/legacy-build/169.3bd74d76.css",
+        "/legacy-build/app.94435144.css"
+      ]
+    },
+    "login": {
+      "js": [
+        "/legacy-build/runtime.44d6b0ce.js",
+        "/legacy-build/755.f5cf308f.js",
+        "/legacy-build/login.95d88dfd.js"
+      ]
+    },
+    "admin": {
+      "js": [
+        "/legacy-build/runtime.44d6b0ce.js",
+        "/legacy-build/755.f5cf308f.js",
+        "/legacy-build/498.795a5052.js",
+        "/legacy-build/919.e0107f69.js",
+        "/legacy-build/admin.be6ad314.js"
+      ],
+      "css": [
+        "/legacy-build/admin.691f9b8c.css"
+      ]
+    },
+    "search": {
+      "js": [
+        "/legacy-build/runtime.44d6b0ce.js",
+        "/legacy-build/755.f5cf308f.js",
+        "/legacy-build/498.795a5052.js",
+        "/legacy-build/940.ffc56c7e.js",
+        "/legacy-build/search.c17ed470.js"
+      ]
+    }
+  },
+  "integrity": {
+    "/legacy-build/runtime.44d6b0ce.js": "sha384-Ps2wDOLgWThcwi4FHVT54WlowjcfiqE6xw81Dxd4yJBpMhqVmu01/GTMPRZxmSHF",
+    "/legacy-build/755.f5cf308f.js": "sha384-SAv+SyvZr31CmFrJFfKEYK0fDrMVx8vh19SI4QznAB/ar+Z1k6IT9Mg2SDZtLwD2",
+    "/legacy-build/498.795a5052.js": "sha384-QVgaL1TdeuiJoairjAYGasWrkAkLeT+IvBwWsoTJK9GGEmqVt08r0by+bYr+Zgco",
+    "/legacy-build/169.7260fb26.js": "sha384-dCVa2mjf4QzHPCwJeszVOr+PwMd9quijuEgl+Xpst7L+5JxEVJn4MKqQ5DBMTLPA",
+    "/legacy-build/app.9cc866b9.js": "sha384-KGgL6m1zi8EktId5XZKYFJdms9oa2C/g9PHzedwnNj+o7Ng17dTuOxLDcbKOyP7L",
+    "/legacy-build/169.3bd74d76.css": "sha384-eYBVnuVQu4ZSjqXvZFHapE2g3b5Jb5G+hCMV92v2qY+oQhAe84c/Mv0vkQsoxoKU",
+    "/legacy-build/app.94435144.css": "sha384-h2RUE9Sf9ePdR8u27s7Sob40SZT8bA2h+v95kWmUltRNNi9lWVJyWQ4zv/EiRdYj",
+    "/legacy-build/login.95d88dfd.js": "sha384-vLZ8V1DHce6nmjR1e6pt88AD6HpLRzen0JGGRvsHcYF4RqD2a6W0HZqcA9cbtBfZ",
+    "/legacy-build/919.e0107f69.js": "sha384-086mRWaT/B9Il7XbOxyZzevxWuMbGc+2EcXVQXNe5IGSy0MUiyLXK8iBan33qrZs",
+    "/legacy-build/admin.be6ad314.js": "sha384-dmD+Wz+pg9xPqcoyc9DJQ+fuMi6ub99HWQfgE2smhqUOtzU0qUKioIetghRwJPmz",
+    "/legacy-build/admin.691f9b8c.css": "sha384-4DrM6czCoIi/wUbtZloc82FNEKtnOn/srW8e1ZtNqcmENgNy5xZeINeFptq+p56H",
+    "/legacy-build/940.ffc56c7e.js": "sha384-Z4a/Q1DbjfyPyM5CIDo7n3utRSsFFFfUO6ZYj9d1uTVOgj5/EiD97BE4P5NNmkon",
+    "/legacy-build/search.c17ed470.js": "sha384-7UTLeodT2AlRPAGwmk+Xv3hXr2VuqT7N9hGB7yx+g6sbKaHDKcFVuOWFm5VzZciV"
+  }
+}
